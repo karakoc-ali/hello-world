@@ -5,8 +5,8 @@ namespace deneme
     internal class Program
     {
         static void Main(string[] args)
-        {
-            Console.WriteLine("Hello World! ve  ali");
+        {   //dğişiklik nerede, burada olma ihitmali var.
+            Console.WriteLine("Hello World! ve ali");
         }
     }
 }
